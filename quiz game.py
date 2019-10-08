@@ -7,7 +7,7 @@ class questions:
 question_pack = [questions('capital of china?\na Beijing\nb Shanghai \n c hongkong', 'a'),
                  questions('boeing is a? \na car \n b Aeroplane \n c tractor', 'b')]
 
-print(len(question_pack))
+print(len(question_pack))  #not needed using it just for fun
 
 
 def play_game(questions_pack_here):

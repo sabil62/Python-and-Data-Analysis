@@ -21,3 +21,9 @@ student3 = student('cman', 23, 1.5)
 student1.good_gpa()
 student2.good_gpa()
 student3.good_gpa()
+
+def aba(hello):
+    print('hello mr '+hello)
+
+aba('kingkong')
+
