@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 10 22:52:02 2019
 
-@author: User
-"""
 import pandas as pd
 
 left=pd.DataFrame({'teams':['Nepal','India','Bhutan','Srilanka'],

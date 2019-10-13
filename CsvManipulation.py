@@ -11,7 +11,7 @@ print(Dataset.shape)    #prints(1000,14) means 1000rows and 14 colums
 print(Dataset.describe())
 
 #head() function 
-# print(Dataset.head())  or print(Dataset.head(10))
+#print(Dataset.head())  #or print(Dataset.head(10))
 
 #tail() function
 #print(Dataset.tail(10))  prints from 
