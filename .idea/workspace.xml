@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36a469f9-5d2a-4265-a60b-934a2ca835cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class and object function.py" beforeDir="false" afterPath="$PROJECT_DIR$/class and object function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz game.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FoliumPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/FoliumPractice.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.panda">
+  <component name="RunManager" selected="Python.FoliumPractice">
     <configuration name="DataScience" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -64,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class and object function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FoliumPractice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class and object function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FoliumPractice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FoliumPractice" />
         <item itemvalue="Python.panda" />
         <item itemvalue="Python.pandas" />
         <item itemvalue="Python.DataScience" />
         <item itemvalue="Python.numpy" />
-        <item itemvalue="Python.class and object function" />
       </list>
     </recent_temporary>
   </component>
